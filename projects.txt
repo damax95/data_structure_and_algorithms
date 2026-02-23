@@ -1,0 +1,4 @@
+- All Data structure projects will saved in this repository
+- C++ is the main language used
+- VS code is the main editor used
+- Git is needed to clone and fetch updates
